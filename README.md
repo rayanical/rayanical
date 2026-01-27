@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/rayanical">GitHub</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/rayan-chahid">LinkedIn</a> ·
+  <a href="mailto:rayanc2005@gmail.com">Email</a>
 </p>
 
 ---
