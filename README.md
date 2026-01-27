@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rayanical">GitHub</a> ·
+  <a href="https://rayanchahid.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/rayan-chahid">LinkedIn</a> ·
   <a href="mailto:rayanc2005@gmail.com">Email</a>
 </p>
