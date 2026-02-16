@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ About
-Building products wherever I see fit. Focusing on increasing productivity and finding gaps in the market. Interested in AI/ML and the future of SWE, and just working on anything I find cool or might help someone. Reach out to talk, collaborate, or for any opportunities. 
+Building everything under the sun. Interested in AI/ML and customer focused apps, and just working on anything I find cool. Reach out to talk, collaborate, or for any opportunities. 
 
 ---
 
