@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ About
-Building everything under the sun. Interested in AI/ML and customer focused apps, and just working on anything I find cool. Reach out to talk, collaborate, or for any opportunities. 
+Building AI integrated applications to improve our lives. Working on anything I find cool. Reach out to talk, collaborate, or for any opportunities. 
 
 ---
 
