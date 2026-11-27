@@ -1,72 +1,32 @@
-<h1 align="center">Rayan Chahid</h1>
-<p align="center">
-  Computer Science student · UMass Amherst · Open to Opportunities
-</p>
+# Hi, I'm Rayan 👋
 
-<p align="center">
-  <a href="https://rayanchahid.com">Portfolio</a> ·
-  <a href="https://linkedin.com/in/rayan-chahid">LinkedIn</a> ·
-  <a href="mailto:rayanc2005@gmail.com">Email</a>
-</p>
+Master’s computer science student at UMass Amherst. Currently a SWE intern at Stripe, previously at Amazon. I build apps, tools, and whatever else I find interesting, with a focus on AI.
 
----
+[Portfolio](https://rayanchahid.com) · [LinkedIn](https://linkedin.com/in/rayan-chahid) · [Email](mailto:rayanc2005@gmail.com)
 
-### ⚡ About
-Building AI integrated applications to improve our lives. Working on anything I find cool. Reach out to talk, collaborate, or for any opportunities. 
+## AI & data
 
----
+- 📊 [Analytico](https://github.com/rayanical/analytico) — Turn CSVs into interactive charts and dashboards.
+- 🧠 [Edgecase](https://github.com/rayanical/edgecase) — An AI interview coach beside your coding editor.
+- 💸 [AI Money Machine](https://github.com/rayanical/ai-money-machine) — Explore AI company finances, relationships, and compute deals.
+- 🍽️ [Dinio](https://github.com/rayanical/dinio) — Find UMass dining hall meals that fit your goals.
 
-### 🚀 What I'm Working On
+## Developer tools
 
+- 🐍 [Codemon](https://github.com/rayanical/codemon) — Practice Python with custom coding interview questions.
+- ⚓ [DevDock](https://github.com/rayanical/DevDock) — Manage local dev servers from the macOS menu bar.
 
-#### 🧠 AI & Data
-- **[Analytico](https://github.com/rayanical/analytico)**  
-  Full-stack AI charting platform designed to make data visualization zero-friction.  
-  *TypeScript · AI integration · Full-stack*
+## Mac & browser apps
 
-- **[Dining Bot](https://github.com/rayanical/dining-bot-publish)**  
-  AI-powered nutrition assistant for the UMass Amherst dining system.  
-  *Applied AI · User-facing tooling*
+- 🪟 [Pippin](https://github.com/rayanical/Pippin) — Keep a live preview of any window floating above your work.
+- ⏱️ [Pomodoro](https://github.com/rayanical/pomodoro) — A menu bar focus timer with a built-in task list.
+- 🔇 [noTunesMute](https://github.com/rayanical/noTunesMute) — Stop accidental Music launches and mute FaceTime with Play/Pause.
+- 🏷️ [TrueDeal](https://github.com/rayanical/TrueDeal) — See how an Amazon deal compares with its price history.
+- 👻 [Snapchat Data Viewer](https://github.com/rayanical/snapchat-viewer) — Search your Snapchat chats and media locally.
+- 🎵 [TikTok Export Viewer](https://github.com/rayanical/tiktok-export-viewer) — Browse your TikTok watch history, likes, and saves locally.
 
----
+## Games & more
 
-#### 🛠 Systems & Product Engineering
-- **[Trivia World](https://github.com/rayanical/trivia-world)**  
-  Real-time trivia platform showcasing scalable backend design and smooth UX.  
-  *Cloud architecture · Real-time systems*
-  
-- **[DevDock](https://github.com/rayanical/DevDock)** 
-  Native macOS menu bar utility for managing local development servers.  
-  *Swift · macOS · Developer tooling*
-
----
-
-#### 🔐 Privacy-First Tools
-- **[TikTok Export Viewer](https://github.com/rayanical/tiktok-export-viewer)**  
-  Browser-based viewer for TikTok liked-data exports — fully local, no tracking.  
-  *TypeScript · Web APIs*
-
-- **[Snapchat Export Viewer](https://github.com/rayanical/snapchat-viewer)**  
-  Fast, modern UI for exploring Snapchat message exports without uploading data.  
-  *TypeScript · Performance-focused frontend*
-
----
-
-#### 🎨 Interactive Experiences
-- **[Valentine’s Template](https://github.com/rayanical/valentines-template)**  
-  Spy-themed interactive web experience built for a delightful valentine's proposal.  
-  *Creative frontend · Game*
-
----
-
-### 🛠 Tech Stack
-**Languages:** TypeScript, JavaScript, Python, Java
-**Focus Areas:** Full-stack web, applied AI, developer tools  
-**Tools:** React, Node.js, SQL, Git, Next.js
-
----
-
-### 📌 Currently Exploring
-- AI Engineering & Integration
-- ML and Fine Tuning
-- Developer tools that feel native and seamless
+- 🎮 [Trivia World](https://github.com/rayanical/trivia-world) — Play trivia and Guess Who with friends.
+- 📚 [Gamify](https://github.com/rayanical/Gamify) — A team-built student planner with grades, streaks, and rewards.
+- 🕵️ [Valentine’s Template](https://github.com/rayanical/valentines-template) — A customizable spy-themed Valentine’s puzzle game.
