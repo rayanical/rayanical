@@ -4,6 +4,12 @@ Master’s computer science student at UMass Amherst. Currently a SWE intern at 
 
 [Portfolio](https://rayanchahid.com) · [LinkedIn](https://linkedin.com/in/rayan-chahid) · [Email](mailto:rayanc2005@gmail.com)
 
+## Tech & tools
+
+[![TypeScript, React, Next.js, Node.js, Python, FastAPI, Swift, and PostgreSQL](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,swift,postgres)](https://skillicons.dev)
+
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ## AI & data
 
 - 📊 [Analytico](https://github.com/rayanical/analytico) — Turn CSVs into interactive charts and dashboards.
